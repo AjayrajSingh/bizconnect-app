@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "707738684145",
+    "project_id": "bizconnect-cu",
+    "storage_bucket": "bizconnect-cu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707738684145:android:77bef796fd2447897b7750",
+        "android_client_info": {
+          "package_name": "in.cuchd.bizconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707738684145-fqcm69useg874ajr9vrohedv71ce73ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABuAMSSqKLDqito998wLohuzkvAEULtes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707738684145-fqcm69useg874ajr9vrohedv71ce73ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
